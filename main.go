@@ -7,5 +7,5 @@ const specialChars = "!@#$%^&*-{};'.<>/?`"
 
 func main() {
 	var useLetters, useNumbers, useSpecialChars, useUppercaseLetters bool
-
+	var useLetters_, useNumbers_, useSpecialChars_, useUppercaseLetters_ string
 }
