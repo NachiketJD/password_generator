@@ -6,5 +6,6 @@ const numbers = "0123456789"
 const specialChars = "!@#$%^&*-{};'.<>/?`"
 
 func main() {
+	var useLetters, useNumbers, useSpecialChars, useUppercaseLetters bool
 
 }
