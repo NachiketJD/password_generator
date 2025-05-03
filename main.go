@@ -188,3 +188,5 @@ func checkUpperCase(char []byte) bool {
 	}
 	return false
 }
+
+// more to explore
