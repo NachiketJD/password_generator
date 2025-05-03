@@ -189,4 +189,4 @@ func checkUpperCase(char []byte) bool {
 	return false
 }
 
-// more to explore
+// more to explore 1. encrypting passwd and storing it
